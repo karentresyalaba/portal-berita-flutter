@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "498083145646",
+    "project_id": "portal-berita-57dca",
+    "storage_bucket": "portal-berita-57dca.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498083145646:android:603906a49b78cf446a8a3f",
+        "android_client_info": {
+          "package_name": "com.example.portal_berita"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvVXmxU_ZY81PllGtkc7IuMiHQ0rb2DbQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,38 @@
+name: portal_berita
+description: Aplikasi Portal Berita dengan Firebase Authentication
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  
+  # Firebase - Versi Terbaru
+  firebase_core: ^4.2.1
+  firebase_auth: ^6.1.2
+  cloud_firestore: ^6.1.0
+  
+  # State Management
+  provider: ^6.1.5
+  
+  # UI
+  google_fonts: ^6.3.3
+  flutter_svg: ^2.2.3
+  cached_network_image: ^3.4.1
+  
+  # Utilities
+  intl: ^0.20.2
+  
+  # Icons
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
