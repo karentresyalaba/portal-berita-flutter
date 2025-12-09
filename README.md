@@ -1,16 +1,50 @@
-# portal_berita
+# 📰 Portal Berita Flutter
+Aplikasi Portal Berita berbasis Flutter dengan Firebase sebagai backend.
 
-A new Flutter project.
+## 🔗 Links
+- **Repository:** https://github.com/karentresyalaba/portal-berita-flutter
+- **Download APK:** [Portal Berita v1.0.0](https://github.com/karentresyalaba/portal-berita-flutter/releases/download/v1.0.0/portal-berita.apk)
 
-## Getting Started
+## ✨ Fitur
+- 🔐 **Authentication:** Login & Register dengan Firebase Auth
+- 📰 **Berita Management:** CRUD (Create, Read, Update, Delete) berita
+- 🔍 **Search & Filter:** Cari berita dan filter berdasarkan kategori
+- 👤 **Profile:** Manajemen profil pengguna
+- 🎨 **Modern UI:** Material Design 3 dengan Google Fonts
 
-This project is a starting point for a Flutter application.
+## 🛠️ Teknologi
+- **Flutter** 3.x
+- **Firebase Authentication**
+- **Cloud Firestore**
+- **Provider** (State Management)
+- **Google Fonts**
 
-A few resources to get you started if this is your first Flutter project:
+## 📱 Kategori Berita
+- Semua
+- Teknologi
+- Olahraga
+- Politik
+- Bisnis
+- Hiburan
+- Kesehatan
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🚀 Cara Install
+1. Download file APK dari [Releases](https://github.com/karentresyalaba/portal-berita-flutter/releases)
+2. Buka file APK di Android
+3. Izinkan instalasi dari "Unknown Sources" jika diminta
+4. Install aplikasi
+5. Buka aplikasi dan daftar akun baru
+6. Selesai!
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📸 Screenshots
+(Tambahkan screenshot aplikasi di sini)
+
+## 👨‍💻 Developer
+- **Nama:** Karen Tresya Laba
+- **Project:** Portal Berita Flutter
+- **Tahun:** 2024
+
+## 📄 License
+MIT License
+---
+© 2024 Karen Tresya Laba
